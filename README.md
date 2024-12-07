@@ -45,7 +45,7 @@
 
 ### 🌤️ Forecastly  
 A modern approach to weather applications, **Forecastly** redefines how users interact with weather data by:  
-- Leveraging **OpenAI's Large Language Models (LLMs)** to generate concise and insightful weather summaries.  
+- Leveraging **OpenAI's Language Model API** to generate concise and insightful weather summaries.  
 - Presenting an intuitive and sleek user interface for a seamless user experience.  
 - Bridging technology and usability to provide meaningful insights about weather conditions.
 
